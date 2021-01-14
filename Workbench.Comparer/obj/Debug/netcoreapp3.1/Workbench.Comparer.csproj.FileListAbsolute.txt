@@ -1,0 +1,9 @@
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.deps.json
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csprojAssemblyReference.cache
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfoInputs.cache
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfo.cs
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csproj.CoreCompileInputs.cache
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\workspace\DesignPatternSamples-main\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.pdb
